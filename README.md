@@ -1,2 +1,2 @@
-# oibsip_task1.github.io
+# oibsip_task1
 Calculator
